@@ -1,0 +1,94 @@
+prediction,Electoral District,GP,NDP,CP,Other,Total Valid Votes,Advance Voting Ballot Boxes,Final Voting Day Ballot Boxes,Out-of-district ballots,type1,type2,total
+CPBC leaning,Abbotsford-Mission,0,"10,560","13,254",0,"23,814",5 of 5,16 of 16,Complete,358,246,604
+CPBC safe,Abbotsford South,0,"7,232","12,853",670,"20,755",5 of 5,18 of 18,Complete,289,149,438
+CPBC safe,Abbotsford West,0,"6,949","11,225",914,"19,088",4 of 4,16 of 16,Complete,372,223,595
+CPBC leaning,Boundary-Similkameen,"1,422","10,271","11,733",771,"24,197",10 of 10,22 of 22,Complete,346,123,469
+NDP likely,Bulkley Valley-Stikine,588,"3,602","4,875",236,"9,301",5 of 5,24 of 24,Complete,134,107,241
+NDP likely,Burnaby Centre,0,"9,413","7,121",0,"16,534",5 of 5,11 of 11,Complete,364,163,527
+NDP safe,Burnaby East,"1,490","10,060","7,991",0,"19,541",6 of 6,12 of 12,Complete,463,234,697
+NDP safe,Burnaby-New Westminster,0,"10,260","5,985",922,"17,167",4 of 4,13 of 13,Complete,361,218,579
+NDP safe,Burnaby North,0,"10,359","8,459",736,"19,554",4 of 4,13 of 13,Complete,399,186,585
+NDP safe,Burnaby South-Metrotown,920,"7,295","6,189",415,"14,819",4 of 4,13 of 13,Complete,333,179,512
+CPBC safe,Cariboo-Chilcotin,0,"5,847","13,461",0,"19,308",7 of 7,41 of 41,Complete,231,223,454
+NDP Toss up,Chilliwack-Cultus Lake,0,"10,856","13,307",0,"24,163",6 of 6,15 of 15,Complete,617,234,851
+CPBC safe,Chilliwack North,"1,133","7,777","11,493",473,"20,876",4 of 4,16 of 16,Complete,399,281,680
+CPBC safe,Columbia River-Revelstoke,"1,394","7,903","8,616",0,"17,913",7 of 7,19 of 19,Complete,240,616,856
+NDP leaning,Coquitlam-Burke Mountain,0,"10,613","10,354",0,"20,967",5 of 5,13 of 13,Complete,457,254,711
+NDP likely,Coquitlam-Maillardville,"1,411","11,568","8,939",520,"22,438",4 of 4,17 of 17,Complete,400,266,666
+NDP likely,Courtenay-Comox,"6,988","12,916","13,149",628,"33,681",6 of 6,18 of 18,Complete,759,236,995
+NDP leaning,Cowichan Valley,"5,599","11,426","10,699",591,"28,315",6 of 6,20 of 20,Complete,546,253,799
+NDP likely,Delta North,"1,259","10,694","8,233",176,"20,362",7 of 7,12 of 12,Complete,292,183,475
+CPBC safe,Delta South,0,"11,558","14,234",0,"25,792",4 of 4,15 of 15,Complete,383,137,520
+NDP safe,Esquimalt-Colwood,"5,485","14,456","8,333",0,"28,274",5 of 5,17 of 17,Complete,960,365,"1,325"
+CPBC leaning,Fraser-Nicola,"1,703","6,721","10,169",0,"18,593",10 of 10,32 of 32,Complete,196,488,684
+NDP safe,Juan de Fuca-Malahat,"5,346","8,943","8,923",0,"23,212",7 of 7,16 of 16,Complete,496,185,681
+CPBC likely,Kamloops Centre,"2,544","10,102","12,130",0,"24,776",6 of 6,16 of 16,Complete,424,133,557
+CPBC safe,Kamloops-North Thompson,"2,143","9,551","17,542",0,"29,236",8 of 8,32 of 32,Complete,419,380,799
+CPBC safe,Kelowna Centre,"1,061","10,593","10,742","2,526","24,922",6 of 6,15 of 15,Complete,590,228,818
+CPBC safe,Kelowna-Lake Country-Coldstream,"1,080","8,796","13,620","1,635","25,131",7 of 7,17 of 17,Complete,457,233,690
+CPBC safe,Kelowna-Mission,"1,312","8,616","13,791","2,903","26,622",5 of 5,18 of 18,Complete,562,147,709
+NDP leaning,Kootenay Central,"4,020","8,466","6,840","2,159","21,485",8 of 8,23 of 23,Complete,326,179,505
+NDP safe,Kootenay-Monashee,"1,745","9,955","7,502",0,"19,202",7 of 7,19 of 19,Complete,247,135,382
+CPBC likely,Kootenay-Rockies,971,"4,089","8,114","5,776","18,950",7 of 7,19 of 19,Complete,192,108,300
+CPBC leaning,Ladysmith-Oceanside,"2,162","13,423","11,678","5,335","32,598",6 of 6,19 of 19,Complete,"1,028",452,"1,480"
+NDP safe,Langford-Highlands,"2,286","10,940","8,040",0,"21,266",4 of 4,14 of 14,Complete,516,283,799
+CPBC safe,Langley-Abbotsford,"1,394","8,436","14,045","1,273","25,148",5 of 5,17 of 17,Complete,410,203,613
+CPBC leaning,Langley-Walnut Grove,"1,215","10,592","11,806",130,"23,743",4 of 4,15 of 15,Complete,459,216,675
+CPBC leaning,Langley-Willowbrook,"1,624","9,708","10,671",0,"22,003",4 of 4,15 of 15,Complete,499,249,748
+NDP leaning,Maple Ridge East,"1,570","11,468","11,795",0,"24,833",5 of 5,17 of 17,Complete,528,289,817
+NDP likely,Maple Ridge-Pitt Meadows,0,"14,076","11,668",0,"25,744",5 of 5,16 of 16,Complete,425,212,637
+NDP safe,Mid Island-Pacific Rim,"3,277","13,590","11,142",0,"28,009",9 of 9,23 of 23,Complete,539,225,764
+NDP safe,Nanaimo-Gabriola Island,"3,381","14,085","9,386",0,"26,852",7 of 7,19 of 19,Complete,696,247,943
+NDP Toss up,Nanaimo-Lantzville,"2,474","14,613","11,341",0,"28,428",5 of 5,15 of 15,Complete,792,359,"1,151"
+CPBC safe,Nechako Lakes,609,"3,101","7,771",0,"11,481",9 of 9,26 of 26,Complete,82,143,225
+NDP likely,New Westminster-Coquitlam,"2,294","12,234","6,242",0,"20,770",7 of 7,14 of 14,Complete,580,222,802
+NDP safe,North Coast-Haida Gwaii,0,"4,765","2,582",0,"7,347",7 of 7,28 of 28,Complete,63,120,183
+CPBC Toss up,North Island,"2,325","13,215","13,899",0,"29,439",6 of 6,33 of 33,Complete,539,182,721
+NDP safe,North Vancouver-Lonsdale,0,"16,165","8,853",0,"25,018",4 of 4,18 of 18,Complete,562,248,810
+NDP Toss up,North Vancouver-Seymour,"1,677","15,671","10,686","1,741","29,775",4 of 4,20 of 20,Complete,692,225,917
+NDP leaning,Oak Bay-Gordon Head,"6,197","13,721","8,161",0,"28,079",11 of 11,17 of 17,Complete,"1,071",418,"1,489"
+CPBC safe,Peace River North,0,806,"10,997","2,978","14,781",6 of 6,20 of 20,Complete,74,173,247
+CPBC safe,Peace River South,0,559,"7,070","2,475","10,104",5 of 5,14 of 14,Complete,82,166,248
+CPBC safe,Penticton-Summerland,"1,439","10,955","11,427","3,610","27,431",8 of 8,17 of 17,Complete,474,162,636
+NDP safe,Port Coquitlam,"1,604","13,389","9,743",240,"24,976",5 of 5,18 of 18,Complete,437,266,703
+NDP leaning,Port Moody-Burquitlam,"1,866","12,941","10,210",0,"25,017",4 of 4,19 of 19,Complete,570,303,873
+NDP safe,Powell River-Sunshine Coast,"3,837","14,061","10,218",344,"28,460",8 of 8,20 of 20,Complete,518,386,904
+CPBC safe,Prince George-Mackenzie,"1,451","4,830","10,534",421,"17,236",6 of 6,18 of 18,Complete,182,307,489
+CPBC safe,Prince George-North Cariboo,848,"3,324","11,262","4,296","19,730",7 of 7,25 of 25,Complete,215,754,969
+CPBC safe,Prince George-Valemount,"1,583","5,557","8,882",0,"16,022",6 of 6,23 of 23,Complete,187,141,328
+CPBC likely,Richmond-Bridgeport,526,"5,718","9,643",633,"16,520",5 of 5,14 of 14,Complete,392,126,518
+NDP Toss up,Richmond Centre,0,"5,740","8,208","1,767","15,715",4 of 4,12 of 12,Complete,322,173,495
+CPBC Toss up,Richmond-Queensborough,0,"8,442","9,864",959,"19,265",4 of 4,15 of 15,Complete,331,160,491
+CPBC Toss up,Richmond-Steveston,778,"10,013","9,581","2,293","22,665",5 of 5,15 of 15,Complete,480,192,672
+GRN likely,Saanich North and the Islands,"11,858","10,540","9,876",623,"32,897",6 of 6,22 of 22,Complete,910,242,"1,152"
+NDP safe,Saanich South,"5,248","14,587","9,652",0,"29,487",6 of 6,19 of 19,Complete,921,404,"1,325"
+CPBC safe,Salmon Arm-Shuswap,"2,209","9,442","16,313","3,257","31,221",9 of 9,28 of 28,Complete,416,168,584
+CPBC likely,Skeena,400,"5,289","6,174",125,"11,988",7 of 7,18 of 18,Complete,142,104,246
+NDP safe,Surrey City Centre,846,"6,439","6,344",298,"13,927",7 of 7,12 of 12,Complete,301,175,476
+NDP leaning,Surrey-Cloverdale,"1,107","9,332","10,005",149,"20,593",5 of 5,14 of 14,Complete,417,221,638
+NDP safe,Surrey-Fleetwood,"1,286","9,575","8,989",0,"19,850",5 of 5,13 of 13,Complete,340,209,549
+NDP likely,Surrey-Guildford,791,"8,571","8,674",364,"18,400",6 of 6,12 of 12,Complete,408,226,634
+NDP likely,Surrey-Newton,0,"7,632","6,512",888,"15,032",7 of 7,13 of 13,Complete,295,160,455
+NDP safe,Surrey North,626,"6,467","7,729",278,"15,100",5 of 5,12 of 12,Complete,306,187,493
+NDP likely,Surrey-Panorama,0,"8,177","8,531",397,"17,105",4 of 4,10 of 10,Complete,306,196,502
+NDP Toss up,Surrey-Serpentine River,0,"9,039","9,556",542,"19,137",5 of 5,13 of 13,Complete,332,210,542
+CPBC safe,Surrey South,0,"8,625","12,471",0,"21,096",6 of 6,13 of 13,Complete,504,200,704
+CPBC leaning,Surrey-White Rock,0,"12,261","14,257",646,"27,164",5 of 5,16 of 16,Complete,656,228,884
+NDP likely,Vancouver-Fraserview,"1,233","11,404","7,376",0,"20,013",5 of 5,16 of 16,Complete,508,287,795
+NDP safe,Vancouver-Hastings,"2,300","13,701","5,234",152,"21,387",4 of 4,16 of 16,Complete,510,290,800
+NDP safe,Vancouver-Kensington,"1,403","11,278","5,920",0,"18,601",5 of 5,12 of 12,Complete,366,272,638
+CPBC Toss up,Vancouver-Langara,925,"8,111","7,823",0,"16,859",4 of 4,11 of 11,Complete,468,233,701
+NDP likely,Vancouver-Little Mountain,"1,782","15,010","7,449",0,"24,241",4 of 4,15 of 15,Complete,634,299,933
+NDP likely,Vancouver-Point Grey,"1,818","11,978","7,311",0,"21,107",5 of 5,14 of 14,Complete,748,229,977
+CPBC safe,Vancouver-Quilchena,"1,666","8,214","11,036",376,"21,292",4 of 4,14 of 14,Complete,625,312,937
+NDP safe,Vancouver-Renfrew,"1,026","10,578","5,194",0,"16,798",4 of 4,14 of 14,Complete,321,251,572
+NDP safe,Vancouver-South Granville,"2,744","16,390","6,461",0,"25,595",4 of 4,16 of 16,Complete,868,295,"1,163"
+NDP safe,Vancouver-Strathcona,"2,361","13,286","3,324",324,"19,295",6 of 6,17 of 17,Complete,481,281,762
+NDP safe,Vancouver-West End,"1,795","12,595","5,484",140,"20,014",5 of 5,13 of 13,Complete,646,191,837
+CPBC likely,Vancouver-Yaletown,"1,191","8,552","7,569",0,"17,312",5 of 5,13 of 13,Complete,542,269,811
+CPBC leaning,Vernon-Lumby,0,"11,528","11,144","4,455","27,127",7 of 7,18 of 18,Complete,464,138,602
+GRN leaning,Victoria-Beacon Hill,"9,027","12,715","5,171",0,"26,913",6 of 6,17 of 17,Complete,"1,282",587,"1,869"
+NDP safe,Victoria-Swan Lake,"5,618","13,498","4,916",150,"24,182",7 of 7,16 of 16,Complete,914,380,"1,294"
+CPBC safe,West Kelowna-Peachland,0,"7,119","13,198","5,511","25,828",6 of 6,16 of 16,Complete,447,221,668
+CPBC likely,West Vancouver-Capilano,"1,374","6,721","11,692","5,141","24,928",6 of 6,14 of 14,Complete,638,253,891
+CPBC Toss up,West Vancouver-Sea to Sky,"10,223","7,019","9,555",0,"26,797",8 of 8,18 of 18,Complete,465,124,589
